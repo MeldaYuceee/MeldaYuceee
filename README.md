@@ -12,7 +12,7 @@ Learning every day and turning ideas into small experiments is my favorite hobby
 💻 **Programming** – Python, C, C#, practicing with small projects  
 🌐 **Web Development** – HTML5, CSS3, JavaScript, interactive pages  
 ⚙️ **Embedded Systems & IoT** – Arduino, sensors, LEDs (in progress)  
-🎮 **Game Development** – trying out simple 2D games  
+🎮 **Game Development** – practicing and building games daily
 
 ---
 
@@ -22,15 +22,16 @@ Python | C | C# | HTML5 | CSS3 | JavaScript | Arduino IDE | Fritzing
 ---
 
 ## 🌟 Highlighted Projects
-💡 **AI Chatbot** – understands simple conversations using Python & NLP  
-💡 **Digit Recognition** – recognizing handwritten numbers with ML  
-💡 **Portfolio Website** – my personal webpage with HTML5 & CSS3  
-💡 **Arduino Mini Projects** – LED controls, sensors, and small circuits  
+💡 **DroneFlightData** – Mini drone flight data visualizer; visualizes altitude, speed, and distance from drone flights using Python  
+💡 **Certificates_And_Learning** – My professional certificates and online course achievements  
+💡 **STM_News_Scraper** – Python project that automatically fetches news and press releases from the STM website  
+💡 **RedObjectTracker** – Beginner-friendly Python project that tracks red objects in real-time using OpenCV  
+💡 **NeuroDigit** – Simple neural network recognizing handwritten digits (MNIST) with ~97% accuracy
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Melda-Yuce&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeldaYuceee&show_icons=true&theme=radical)
 
 ---
 
