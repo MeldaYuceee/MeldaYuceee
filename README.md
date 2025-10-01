@@ -26,6 +26,9 @@ I enjoy **testing unconventional ideas**, from small AI models that predict patt
 ### 🔬 In the Lab
 My “lab” is wherever I can **experiment with code, electronics, and data**. Every failed experiment teaches something new; every small success builds confidence and insight.  
 
+### 🎯 Current Focus / Learning
+Currently exploring **Reinforcement Learning 🤖, IoT automation ⚡, and Web3 🌐**. Always seeking new challenges to expand my skills.  
+
 ### 💡 Philosophy in Code
 I turn “what if?” into “what works.” Every challenge is an opportunity to **experiment, iterate, and innovate ⚡**. I aim to create projects that are **useful, intriguing, and technically elegant**.  
 
@@ -38,6 +41,10 @@ Active contributions across **AI 🤖, embedded systems ⚙️, automation 🔄,
 
 ## 👀 Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=Melda-Yuce&color=blue)
+
+### 📬 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/melda-y%C3%BCce-35411333b/)  
+- Email: meldayuce4@gmail.com  
 
 ## 💡 Fun Fact
 I enjoy **turning small ideas into projects** and learning through doing. Even the “impossible” projects motivate me to try new things. 🌟
