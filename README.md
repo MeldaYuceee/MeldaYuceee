@@ -6,15 +6,10 @@ I’m a 2nd-year Computer Engineering student fascinated by how technology trans
 
 
 🔬 Experiments in Innovation
-
 Every project I take on is a learning experiment:
-
 Intelligent Systems 🤖: Neural networks & NLP-powered chatbots – Python solutions that think, predict, and adapt
-
 Interactive Web Worlds 🌐: Websites that are intuitive, responsive, and engaging
-
 Embedded Intelligence ⚙️: Arduino, sensors, LEDs – electronics interacting with the real world
-
 Game Mechanics & Logic 🎮: Daily experiments to sharpen problem-solving and design thinking
 
 
