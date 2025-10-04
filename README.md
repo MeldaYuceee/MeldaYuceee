@@ -24,7 +24,6 @@ I love experimenting with **AI 🤖, web development 🌐, embedded systems ⚙�
 
 ### 🛡️ Motion-Detection-Alarm  
 Real-time motion detection system using OpenCV & Python  
-🔗 [View on GitHub](https://github.com/MeldaYuceee/Motion-Detection-Alarm)  
 
 ### 🔴 RedObjectTracker  
 Real-time object tracking with OpenCV — beginner-friendly computer vision project  
