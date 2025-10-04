@@ -58,8 +58,11 @@ I learn best by experimenting — every project is a hands-on journey.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeldaYuceee&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&theme=radical)  
 
----
 
+
+---
+## 👀 Profile Visitors ![Profile Views](https://komarev.com/ghpvc/?username=Melda-Yuce&color=blue) 
+---
 ## 📬 Connect With Me  
 📎 [LinkedIn](https://www.linkedin.com/in/melda-y%C3%BCce-35411333b/)  
 ✉️ **meldayuce4@gmail.com**  
