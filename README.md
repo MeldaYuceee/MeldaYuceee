@@ -61,7 +61,8 @@ I learn best by experimenting — every project is a hands-on journey.
 
 
 ---
-## 👀 Profile Visitors ![Profile Views](https://komarev.com/ghpvc/?username=Melda-Yuce&color=blue) 
+## 👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=Melda-Yuce&color=blue) 
 ---
 ## 📬 Connect With Me  
 📎 [LinkedIn](https://www.linkedin.com/in/melda-y%C3%BCce-35411333b/)  
