@@ -85,7 +85,4 @@ I learn best by experimenting — every project is a hands-on journey.
 
 ---
 
-## ⚡ Tips for Arduino Projects to Show in Stats
-1. Rename `.ino` files to `.cpp` for GitHub to classify as C++  
-2. Keep main project files in the repo root for accurate stats  
-3. Commit and push after renaming to update “Top Languages”
+
