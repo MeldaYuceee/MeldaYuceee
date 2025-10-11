@@ -70,7 +70,7 @@ I learn best by experimenting — every project is a hands-on journey.
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeldaYuceee&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&theme=radical&exclude_repo=STM_News_Scraper,NeuroDigit,RedObjectTracker,DroneFlightData)
 
 ---
 
