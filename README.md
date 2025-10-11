@@ -25,34 +25,56 @@ I enjoy experimenting with **AI 🤖, web development 🌐, embedded systems ⚙
 ## 🚀 Featured Projects
 
 ### 🛡️ Sentinel-Guard (Arduino Smart Security Module)
-- Motion, sound, and light sensors detect potential threats  
-- Alerts displayed on **LCD** and triggered via **buzzer & relay**  
-- LED indicators show which sensor is active  
-- Hands-on project for **sensor fusion & embedded systems**  
-- [GitHub Repo](https://github.com/MeldaYuceee/Sentinel-Guard)
+- Motion, sound, and light sensors detect potential threats
+- Alerts displayed on **LCD** and triggered via **buzzer & relay**
+- LED indicators show which sensor is active
+- Hands-on project for **sensor fusion & embedded systems**
+- [GitHub Repo](https://github.com/MeldaYuceee/Sentiel-Guard)
 
 ### 🛡️ Motion-Detection-Alarm
-- Real-time motion detection using OpenCV & Python  
-- Beginner-friendly computer vision project  
+- Real-time motion detection using **OpenCV & Python**
+- Beginner-friendly computer vision project for learning **image processing**
+- [GitHub Repo](https://github.com/MeldaYuceee/Motion-Detection-Alarm)
 
 ### 🔴 RedObjectTracker
-- Real-time object tracking with OpenCV  
-- Practical project for learning **image processing & tracking**
+- Tracks red-colored objects in real time using **OpenCV**
+- Practical project for learning **object detection & tracking**
+- [GitHub Repo](https://github.com/MeldaYuceee/RedObjectTracker)
 
 ### 🚁 DroneFlightData
-- Visualizes drone flight telemetry (altitude, speed, distance)  
-- Python-based data visualization  
+- Visualizes drone flight telemetry including **altitude, speed, and distance**
+- Python-based **data visualization** project
+- [GitHub Repo](https://github.com/MeldaYuceee/DroneFlightData)
 
 ### 📰 STM_News_Scraper
-- Automates STM news & press release collection 
-- Quick insights & learning automation with Python  
+- Automates **STM news & press release collection**
+- Quick insights & learning automation with Python
+- [GitHub Repo](https://github.com/MeldaYuceee/STM_News_Scraper)
 
 ### ✍️ NeuroDigit
-- Handwritten digit recognition (MNIST) with ~97% accuracy  
-- Neural network project for AI learning  
+- Handwritten digit recognition (**MNIST dataset**) with ~97% accuracy
+- Neural network project for **AI and machine learning practice**
+- [GitHub Repo](https://github.com/MeldaYuceee/NeuroDigit)
+
+### 🎨 Colorizer
+- Applies **color filtering and transformation** in images using OpenCV
+- Hands-on project for learning **color detection and image processing**
+- [GitHub Repo](https://github.com/MeldaYuceee/Colorizer)
+
+### 📚 Embedded-Systems-Defense-Tech-Article
+- Research-based article on the impact of **embedded systems in defense technology**
+- Explains microcontrollers, sensors, and automation in defense applications
+- [GitHub Repo](https://github.com/MeldaYuceee/Embedded-Systems-Defense-Tech-Article)
 
 ### 🎓 Certificates_And_Learning
-- Dashboard tracking certifications and learning progress  
+- Dashboard tracking **certifications and learning progress**
+- Highlights continuous learning in Python, AI, and embedded systems
+- [GitHub Repo](https://github.com/MeldaYuceee/Certificates_And_Learning)
+
+### 📝 RadarSimPy
+- Python-based **radar signal simulator**
+- Visualizes radar data and simulates target detection
+- [GitHub Repo](https://github.com/MeldaYuceee/RadarSimPy)
 
 ---
 
