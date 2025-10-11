@@ -44,7 +44,7 @@ I enjoy experimenting with **AI 🤖, web development 🌐, embedded systems ⚙
 - Python-based data visualization  
 
 ### 📰 STM_News_Scraper
-- Automates STM news & press release collection  
+- Automates STM news & press release collection 
 - Quick insights & learning automation with Python  
 
 ### ✍️ NeuroDigit
