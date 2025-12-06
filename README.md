@@ -10,6 +10,37 @@ I’m Melda Yüce — a Computer Engineering student focused on **defense-orient
 ## 🎯 Mission
 Build **functional, documented, defense-related prototypes** and develop a technical portfolio strong enough for **Ankara’s defense ecosystem (ASELSAN / STM / Roketsan)**.
 
+---## 🛠 Languages & Tools  
+
+<div align="left">
+
+<!-- Core Languages -->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+<!-- Embedded & Hardware -->
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white"/>
+
+<!-- Simulation & Robotics -->
+<img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/DroneKit-0066FF?style=for-the-badge"/>
+
+<!-- AI / CV -->
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<!-- Web & Software -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<!-- Defense / Special -->
+<img src="https://img.shields.io/badge/UAV%20Simulation-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RF%20Analysis-003399?style=for-the-badge"/>
+
+</div>
 ---
 
 ## 🚀 Highlight Projects
