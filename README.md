@@ -1,110 +1,62 @@
-# 👋 Hello, I'm Melda Yüce
+# 👋 Hello, I’m Melda Yüce
 
-🎓 **Computer Engineering Student | AI • Web Development • Embedded Systems**  
+🎓 **Computer Engineering Student | Embedded Systems • UAV & Simulation • Python / C++ Developer**
 
-I’m a 2nd-year Computer Engineering student passionate about transforming technology into real, working solutions.  
-I enjoy experimenting with **AI 🤖, web development 🌐, embedded systems ⚙️, and IoT 🌟**, combining creativity and logic to turn ideas into reality.  
-
----
-
-## 💡 What I Work On
-- 🤖 **AI & Intelligent Systems:** Neural networks, NLP-powered chatbots, Python automation tools  
-- ⚙️ **Embedded Systems & IoT:** Arduino projects, sensor integration, real-time alerts  
-- 🌐 **Web Development:** Modern, responsive, and user-friendly websites  
-- 🎮 **Algorithms & Game Logic:** Problem-solving and system design experiments  
+I am 2nd-year Computer Engineering student, working on small but meaningful projects in **embedded systems, UAV data & simulation, computer vision, and automation**. I prefer concise, well-structured projects over large but incomplete efforts.
 
 ---
 
-## 🛠 Tech Stack
-**Python 🐍 | C | C++ | C# | JavaScript | HTML5 | CSS3 | Arduino IDE ⚡ | OpenCV 📸 | TensorFlow 🧠 | NumPy | Pandas 📊 | Git & GitHub 🗂 | VS Code 💻 | Fritzing**  
+## 🛠️ Tech & Languages Overview
 
-> ⚠️ Note: For Arduino projects, `.ino` files can be renamed `.cpp` to reflect C++ usage in GitHub stats.
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ Sentinel-Guard (Arduino Smart Security Module)
-- Motion, sound, and light sensors detect potential threats
-- Alerts displayed on **LCD** and triggered via **buzzer & relay**
-- LED indicators show which sensor is active
-- Hands-on project for **sensor fusion & embedded systems**
-- [GitHub Repo](https://github.com/MeldaYuceee/Sentiel-Guard)
-
-### 🛡️ Motion-Detection-Alarm
-- Real-time motion detection using **OpenCV & Python**
-- Beginner-friendly computer vision project for learning **image processing**
-- [GitHub Repo](https://github.com/MeldaYuceee/Motion-Detection-Alarm)
-
-### 🔴 RedObjectTracker
-- Tracks red-colored objects in real time using **OpenCV**
-- Practical project for learning **object detection & tracking**
-- [GitHub Repo](https://github.com/MeldaYuceee/RedObjectTracker)
-
-### 🚁 DroneFlightData
-- Visualizes drone flight telemetry including **altitude, speed, and distance**
-- Python-based **data visualization** project
-- [GitHub Repo](https://github.com/MeldaYuceee/DroneFlightData)
-
-### 📰 STM_News_Scraper
-- Automates **STM news & press release collection**
-- Quick insights & learning automation with Python
-- [GitHub Repo](https://github.com/MeldaYuceee/STM_News_Scraper)
-
-### ✍️ NeuroDigit
-- Handwritten digit recognition (**MNIST dataset**) with ~97% accuracy
-- Neural network project for **AI and machine learning practice**
-- [GitHub Repo](https://github.com/MeldaYuceee/NeuroDigit)
-
-### 🎨 Colorizer
-- Applies **color filtering and transformation** in images using OpenCV
-- Hands-on project for learning **color detection and image processing**
-- [GitHub Repo](https://github.com/MeldaYuceee/Colorizer)
-
-### 📚 Embedded-Systems-Defense-Tech-Article
-- Research-based article on the impact of **embedded systems in defense technology**
-- Explains microcontrollers, sensors, and automation in defense applications
-- [GitHub Repo](https://github.com/MeldaYuceee/Embedded-Systems-Defense-Tech-Article)
-
-### 🎓 Certificates_And_Learning
-- Dashboard tracking **certifications and learning progress**
-- Highlights continuous learning in Python, AI, and embedded systems
-- [GitHub Repo](https://github.com/MeldaYuceee/Certificates_And_Learning)
-
-### 📝 RadarSimPy
-- Python-based **radar signal simulator**
-- Visualizes radar data and simulates target detection
-- [GitHub Repo](https://github.com/MeldaYuceee/RadarSimPy)
+| Language / Tool        | Proficiency & Use Cases                  |
+|------------------------|-----------------------------------------|
+| **Python**             | Data processing, visualization, CV, automation, simulation |
+| **C / C++ (Arduino)**  | Embedded systems, sensor integration, microcontroller code |
+| **OpenCV, Matplotlib** | Computer-vision & plotting / simulation visualization |
+| **Pandas, NumPy**      | Data handling for telemetry, CSV processing |
+| **Git & GitHub**       | Version control, project sharing |
 
 ---
 
-## 🌱 Currently Exploring
-**Reinforcement Learning 🤖 | IoT Automation ⚡ | Web3 🌐**  
-I learn best by experimenting — every project is a hands-on journey.  
+## ✅ Highlight Projects (Minimal & Focused)
+
+| Project | Short Description |
+|---------|------------------|
+| **Sentinel-Guard** | Multi-sensor (PIR, sound, light) security node — embedded IoT prototype |
+| **DroneFlightData** | Drone telemetry: altitude / speed / distance visualization & simple animation |
+| **STM News Scraper** | Python scraper collecting publicly available news from STM website |
+| **SmartDigit (MNIST)** | Simple ANN for handwritten digit recognition — ML practice |
+| **Colorizer** | Grayscale image → color conversion using basic pixel operations |
+| **Motion Detection Alarm** | Real-time motion detection via webcam + alert using OpenCV |
+
+> Bu projeler hem farklı alanlara (embedded, simülasyon, CV, ML) yayılıyor, hem de hepsi “tamamlanmış” ve çalışır durumda.  
 
 ---
 
-## 💬 Philosophy
-> “I turn *what if?* into *what works.*  
-> Every project is an experiment — every experiment is a step toward innovation.” ⚡  
+## 📊 Project / Language Distribution
+
+- **Python-based:** Sentinel-Guard (embedded), DroneFlightData, STM News Scraper, SmartDigit, Colorizer, Motion Alarm — toplam **6 proje**  
+- **C / C++ (Arduino):** Sensör-tabanlı embedded projeler — **1 temel proje (Sentinel-Guard)**  
+- **Odak:** ~ 60 % veri / simülasyon / CV / otomasyon, ~ 40 % gömülü sistem + sensör  
+
+Bu kombinasyon, “hem yüksek seviye yazılım hem donanım” dengesi sağlıyor.  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeldaYuceee&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&theme=radical&exclude_repo=STM_News_Scraper,NeuroDigit,RedObjectTracker,DroneFlightData)
+## 🎯 Approach & Philosophy
+
+- **Küçük ama bitmiş** projeler üretirim — prototip / demo / kullanım hazır hâlinde.  
+- Her proje, **belirli bir amaca hizmet eder.**  
+- Teknoloji + mantık + gerçekçi senaryo → kod.  
+- Spesifik alanlarda derinleşmek yerine, **temel taşları sağlam** atmayı hedefliyorum.  
 
 ---
 
-## 👀 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=MeldaYuceee&color=blue)
+## 🔗 Connect With Me
+LinkedIn: https://www.linkedin.com/in/melda-y%C3%BCce-35411333b/  
+E-mail: **meldayuce4@gmail.com**  
+GitHub: github.com/MeldaYuceee  
 
 ---
 
-## 📬 Connect With Me
-📎 [LinkedIn](https://www.linkedin.com/in/melda-y%C3%BCce-35411333b/)  
-✉️ **meldayuce4@gmail.com**
-
----
-
-
+> *Minimalist, gerçekçi, çalışan projeler: benim tarzım.*  
