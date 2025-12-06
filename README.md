@@ -28,7 +28,6 @@ Build **functional, documented, defense-related prototypes** and develop a techn
 
 ![Stats](https://stats.dooboo.io/api/github-stats-advanced?login=MeldaYuceee)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee)
 
 
 ---
