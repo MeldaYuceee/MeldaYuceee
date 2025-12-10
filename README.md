@@ -57,8 +57,8 @@ Build **functional, documented, defense-related prototypes** and develop a techn
 ---
 
 ## 📊 GitHub Stats
-![overview](https://raw.githubusercontent.com/MeldaYuceee/github-stats-transparent/output/generated/overview.svg)
-![languages](https://raw.githubusercontent.com/MeldaYuceee/github-stats-transparent/output/generated/languages.svg)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee)
+
 
 
 
