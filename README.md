@@ -57,7 +57,9 @@ Build **functional, documented, defense-related prototypes** and develop a techn
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&langs_count=8&hide_progress=false&cache_seconds=1)
+
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&langs_count=8)
+
 
 
 
