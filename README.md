@@ -170,8 +170,6 @@ Handwritten digit recognition model trained on the MNIST dataset.
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeldaYuceee&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeldaYuceee&theme=tokyonight"/>
 
 </p>
