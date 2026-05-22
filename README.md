@@ -1,57 +1,57 @@
 # 👋 Hi, I'm Melda Yüce
 
 ### Computer Engineering Student focused on  
-### Embedded Systems • UAV Software • Defense Technologies • Telemetry Systems
+### Embedded Systems • UAV Software • Telemetry Systems • Defense Technologies
 
-I’m a Computer Engineering student passionate about building low-level systems, UAV-related software, embedded applications, and real-time telemetry projects.
+I’m a Computer Engineering student interested in embedded systems, drone technologies, telemetry infrastructure, and low-level software development.
 
-Most of my work revolves around:
-- embedded systems
-- drone telemetry
+Most of my projects focus on:
+- ESP32 & Arduino systems
+- UAV telemetry
+- real-time monitoring
 - simulation environments
 - defense-oriented concepts
-- anomaly detection
+- anomaly detection systems
 - hardware/software interaction
-- real-time monitoring systems
 
-I enjoy understanding how systems behave internally, how data flows between hardware and software, and how reliable systems are designed.
+I enjoy building systems that connect software with real-world hardware behavior and experimenting with telemetry, embedded communication, and engineering-focused prototypes.
 
 ---
 
 # 🚀 What I've Built So Far
 
-Over time, I’ve worked on projects involving:
+So far, I’ve worked on projects involving:
 
-- ESP32 & Arduino systems
-- UAV telemetry analysis
-- autonomous drone simulations
-- anti-jamming concepts
+- ESP32 telemetry dashboards
+- UAV mission simulations
+- embedded monitoring systems
+- anti-jamming telemetry concepts
 - GPS spoofing detection
 - radar-inspired simulations
 - computer vision applications
-- anomaly detection systems
-- real-time monitoring tools
+- anomaly detection tools
+- real-time data visualization
 
-Most of these projects were built to improve my understanding of embedded systems, telemetry infrastructure, and defense-oriented engineering concepts.
+Most of these projects were built to improve my understanding of embedded systems, telemetry architectures, UAV software, and real-time engineering systems.
 
 ---
 
 # 🎯 Current Goals
 
 - Improve my embedded software skills in C/C++
-- Build stronger UAV telemetry systems
-- Learn real-time system architectures
+- Learn more about real-time systems
+- Build stronger telemetry infrastructures
 - Improve low-level programming knowledge
-- Develop defense-oriented engineering projects
-- Work on aerospace & aviation related technologies
+- Develop aerospace & defense-oriented projects
+- Learn more about UAV software systems
 - Build a strong technical portfolio for the defense industry
 
-My long-term focus is becoming an engineer working in:
+My long-term goal is working in:
 - aerospace technologies
 - embedded systems
 - UAV software
 - telemetry infrastructure
-- defense industry systems
+- defense industry engineering
 
 ---
 
@@ -89,68 +89,71 @@ My long-term focus is becoming an engineer working in:
 
 ---
 
-# 🛰 Embedded Systems Projects
+# 🛰 ESP32 & Embedded Systems Projects
+
+### [ESP32-Drone-Telemetry-Dashboard](https://github.com/MeldaYuceee/ESP32-Drone-Telemetry-Dashboard)
+ESP32-based telemetry dashboard project focused on real-time drone data monitoring, serial communication, and embedded visualization systems.
 
 ### [Sentinel-Guard](https://github.com/MeldaYuceee/Sentiel-Guard)
-Arduino-based smart security system using motion, sound, and light sensors with LCD, buzzer, and relay control.
+Arduino-based smart security system integrating motion, sound, and light sensors with LCD alerts and relay control.
 
 ### [Aegis-Edge-PX](https://github.com/MeldaYuceee/Aegis-Edge-PX)
-Performance-focused C++ project exploring edge-level system processing and low-level logic.
+C++ project exploring embedded logic, edge-level processing, and low-level system behavior.
 
 ---
 
-# ✈ UAV & Telemetry Projects
+# ✈ UAV & Telemetry Systems
 
 ### [ZEUS-Telemetry-Anomaly-Checker](https://github.com/MeldaYuceee/ZEUS-Telemetry-Anomaly-Checker)
-Telemetry anomaly detection tool analyzing abnormal UAV behavior patterns from incoming data streams.
+Telemetry anomaly detection prototype analyzing abnormal UAV behavior patterns.
 
 ### [RavenLink-Aegis](https://github.com/MeldaYuceee/RavenLink-Aegis)
-Adaptive anti-jamming telemetry prototype with BER monitoring and dynamic telemetry switching.
-
-### [Waypoint-X](https://github.com/MeldaYuceee/Waypoint-X)
-Waypoint-based UAV mission planning and navigation prototype.
+Adaptive anti-jamming telemetry engine with BER monitoring and dynamic telemetry switching.
 
 ### [DroneFlightData](https://github.com/MeldaYuceee/DroneFlightData)
-Mini telemetry visualization system displaying speed, altitude, and flight metrics.
+Flight telemetry visualization tool displaying speed, altitude, and mission metrics.
+
+### [Waypoint-X](https://github.com/MeldaYuceee/Waypoint-X)
+Waypoint-based navigation and mission planning prototype for UAV systems.
 
 ---
 
-# 🚁 Drone Simulation Projects
+# 🚁 Drone Simulation & Robotics
 
 ### [DroneKit-Gazebo-Mission-Project](https://github.com/MeldaYuceee/DroneKit-Gazebo-Mission-Project)
-Autonomous UAV mission simulation using DroneKit and Gazebo environments.
+Autonomous UAV mission simulation using DroneKit and Gazebo.
 
-### [DroneKit-Gazebo-Completed-Project](https://github.com/MeldaYuceee/DroneKit-Gazebo-completed-Project)
+### [DroneKit-Gazebo-completed-Project](https://github.com/MeldaYuceee/DroneKit-Gazebo-completed-Project)
 Completed drone simulation environment focused on autonomous mission execution.
 
 ---
 
-# 📡 Defense & Signal Concepts
+# 📡 Defense & Signal Projects
 
 ### [GPS-Spoofing-Detection-HADES](https://github.com/MeldaYuceee/GPS-Spoofing-Detection-HADES-)
-Prototype exploring GPS spoofing detection through telemetry anomaly analysis.
+GPS spoofing detection prototype using telemetry anomaly analysis.
 
 ### [SilentHawk-RCS](https://github.com/MeldaYuceee/SilentHawk-RCS)
 Radar cross-section inspired simulation and signal analysis project.
 
 ### [RadarSimPy](https://github.com/MeldaYuceee/RadarSimPy)
-Radar signal simulation project visualizing target movement and signal behavior.
+Radar signal visualization and target motion simulation project.
 
 ---
 
-# 👁 Computer Vision Projects
+# 👁 Computer Vision & AI Projects
 
 ### [RedObjectTracker](https://github.com/MeldaYuceee/RedObjectTracker)
-Real-time red object tracking using OpenCV.
+Real-time object tracking application using OpenCV.
 
 ### [Motion-Detection-Alarm](https://github.com/MeldaYuceee/Motion-Detection-Alarm)
-Motion detection alarm system built with Python and OpenCV.
+Motion detection alarm system developed with Python and OpenCV.
 
 ### [Colorizer](https://github.com/MeldaYuceee/Colorizer)
 Image colorization project using OpenCV.
 
 ### [NeuroDigit](https://github.com/MeldaYuceee/NeuroDigit)
-Handwritten digit recognition project trained on MNIST dataset.
+Handwritten digit recognition model trained on the MNIST dataset.
 
 ---
 
@@ -158,34 +161,44 @@ Handwritten digit recognition project trained on MNIST dataset.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeldaYuceee&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeldaYuceee&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 Activity & Contribution
+# 🔥 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeldaYuceee&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=MeldaYuceee&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🎯 Current Focus Areas
+# 📈 Profile Analytics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeldaYuceee&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
 
 ```txt
 Embedded Systems
+ESP32 Development
 UAV Telemetry
 Real-Time Monitoring
 Defense Technologies
 Low-Level Programming
 Drone Simulation
-Computer Vision
 Signal & Radar Concepts
 ```
 
@@ -193,11 +206,19 @@ Signal & Radar Concepts
 
 # 📬 Contact With Me
 
-### LinkedIn
-https://www.linkedin.com/in/melda-y%C3%BCce-35411333b/
+<p align="left">
 
-### Email
-meldayuce4@gmail.com
+<a href="https://www.linkedin.com/in/melda-y%C3%BCce-35411333b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Melda%20Yüce-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:meldayuce4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
