@@ -159,16 +159,43 @@ Handwritten digit recognition model trained on the MNIST dataset.
 
 # 📊 GitHub Statistics
 
+# 📊 GitHub Statistics
+
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeldaYuceee&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeldaYuceee&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
 ---
 
+# 🔥 Contribution Activity
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MeldaYuceee&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeldaYuceee&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeldaYuceee&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeldaYuceee&theme=tokyonight"/>
+
+</p>
 # 🔥 Contribution Activity
 
 <p align="center">
