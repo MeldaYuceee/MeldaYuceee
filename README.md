@@ -1,122 +1,176 @@
-# 👋 Hi, I’m Melda
+<div align="center">
 
-### 🛰️ Embedded Systems • UAV Telemetry • Defense-Oriented Projects  
-### 🛡️ Computer Engineering Student | Ankara Defense Ecosystem Focus
+# MELDA YÜCE
 
-I’m **Melda Yüce**, a Computer Engineering student focused on **embedded systems, cybersecurity-aware development, and defense-oriented software projects**.  
-My main interest lies in building **reliable, low-level systems**, understanding how data flows through hardware-software boundaries, and developing practical prototypes with real-world relevance.
+### Embedded Systems • UAV Telemetry • Defense Technologies
 
----
+Computer Engineering Student focused on low-level systems,  
+real-time telemetry, UAV software, and defense-oriented engineering projects.
 
-## 🎯 Mission
-To build **functional, well-documented, and system-focused prototypes** and develop a technical portfolio aligned with **Ankara’s defense ecosystem**  
-(**ASELSAN · STM · Roketsan**).
+</div>
 
 ---
 
-## 🛠 Languages & Tools
+# About Me
 
-### Core Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+I’m Melda Yüce, a Computer Engineering student building projects around:
 
-### Embedded & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- Embedded systems
+- UAV telemetry & simulation
+- Defense-oriented software concepts
+- Real-time monitoring systems
+- Computer vision & signal analysis
+- Hardware-software interaction
+
+I enjoy developing systems that connect software with real-world hardware behavior and experimenting with telemetry, anomaly detection, simulation environments, and embedded architectures.
+
+My current goal is building a strong engineering portfolio aligned with Türkiye’s defense and aerospace ecosystem.
+
+---
+
+# Technical Focus
+
+```txt
+Embedded Systems
+Telemetry & UAV Data
+Real-Time Monitoring
+Simulation Environments
+Computer Vision
+Signal & Radar Concepts
+Defense-Oriented Prototypes
+```
+
+---
+
+# Tech Stack
+
+## Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E6FB8?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-5B2C83?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+## Embedded & Hardware
+
+![Arduino](https://img.shields.io/badge/Arduino-0A8F83?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 
-### Simulation & Robotics
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![DroneKit](https://img.shields.io/badge/DroneKit-0066FF?style=for-the-badge)
-
-### Computer Vision & Data
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Software & Engines
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
 ---
-## 🚀 Highlight Projects
 
-A comprehensive showcase of my work across **embedded systems, UAV telemetry, defense-oriented simulations, signal analysis, and data-driven prototypes**.
+## Robotics & Simulation
 
-- **[SilentHawk-RCS](https://github.com/MeldaYuceee/SilentHawk-RCS)**  
-  Python-based prototype focused on radar cross-section (RCS) related analysis and simulation concepts.
-
-- **[GPS-Spoofing-Detection-HADES](https://github.com/MeldaYuceee/GPS-Spoofing-Detection-HADES-)**  
-  GPS spoofing detection prototype analyzing anomalies in positioning data to identify potential interference or manipulation.
-
-- **[Sentinel-Guard](https://github.com/MeldaYuceee/Sentiel-Guard)**  
-  Smart security module using Arduino (C/C++) integrating motion, sound, and light sensors with LCD alerts, buzzer, and relay control.
-
-- **[Aegis-Edge-PX](https://github.com/MeldaYuceee/Aegis-Edge-PX)**  
-  C++ project focused on edge-level system logic and performance-oriented processing.
-
-- **[DroneKit-Gazebo-Mission-Project](https://github.com/MeldaYuceee/DroneKit-Gazebo-Mission-Project)**  
-  UAV mission simulation using DroneKit and Gazebo for autonomous flight scenarios.
-
-- **[ZEUS-Telemetry-Anomaly-Checker](https://github.com/MeldaYuceee/ZEUS-Telemetry-Anomaly-Checker)**  
-  Telemetry anomaly detection tool that analyzes UAV data streams to identify abnormal system behavior.
-
-- **[Cerberus-X](https://github.com/MeldaYuceee/Cerberus-X)**  
-  Python-based defense-oriented prototype exploring system monitoring and control concepts.
-
-- **[STM News Scraper](https://github.com/MeldaYuceee/STM_News_Scraper)**  
-  Python automation project that collects news and press releases from the STM website.
-
-- **[Learning-Series: UAV Mission Health Scoring Engine](https://github.com/MeldaYuceee/Learning-Series-Project-UAV-Mission-Health-Scoring-Engine)**  
-  Experimental scoring engine that evaluates UAV mission health based on telemetry and mission parameters.
-
-- **[RadarSimPy](https://github.com/MeldaYuceee/RadarSimPy)**  
-  Radar signal simulator demonstrating target motion, signal visualization, and data analysis inspired by embedded radar systems.
-
-- **[Colorizer](https://github.com/MeldaYuceee/Colorizer)**  
-  Image processing project that colorizes black-and-white images using Python and OpenCV.
-
-- **[RedObjectTracker](https://github.com/MeldaYuceee/RedObjectTracker)**  
-  Real-time red object tracking application built with OpenCV.
-
-- **[RavenLink-Aegis](https://github.com/MeldaYuceee/RavenLink-Aegis)**  
-  Adaptive anti-jamming telemetry engine that monitors BER under interference and dynamically switches telemetry modes to maintain link reliability.
-
-- **[DroneKit-Gazebo-Completed-Project](https://github.com/MeldaYuceee/DroneKit-Gazebo-completed-Project)**  
-  Completed UAV simulation project demonstrating autonomous mission execution.
-
-- **[Motion-Detection-Alarm](https://github.com/MeldaYuceee/Motion-Detection-Alarm)**  
-  Real-time motion detection system that triggers alarms using Python and OpenCV.
-
-- **[NeuroDigit](https://github.com/MeldaYuceee/NeuroDigit)**  
-  Neural network implementation recognizing handwritten digits (MNIST) with ~97% accuracy.
-
-- **[Waypoint-X](https://github.com/MeldaYuceee/Waypoint-X)**  
-  Waypoint-based navigation and mission planning prototype for UAV systems.
-
-- **[DroneFlightData](https://github.com/MeldaYuceee/DroneFlightData)**  
-  Mini drone flight data visualization tool displaying altitude, speed, and distance metrics.
-
-➡️ Additional experiments, learning projects, and ongoing work are available across my repositories.
-
- ---
- 
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&langs_count=8)
-
+![ROS](https://img.shields.io/badge/ROS-1D3557?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge)
+![DroneKit](https://img.shields.io/badge/DroneKit-005EFF?style=for-the-badge)
 
 ---
 
-## 🔥 Current Focus
-- Embedded systems development (C / C++)
-- UAV simulation & telemetry analysis
-- Defense-oriented Python prototypes
-- Secure and reliable system design
-- Data flow analysis in embedded environments
+## Computer Vision & AI
+
+![OpenCV](https://img.shields.io/badge/OpenCV-4527A0?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F57C00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-## 📬 Contact
-- **LinkedIn:** https://www.linkedin.com/in/melda-y%C3%BCce-35411333b/  
-- **Email:** meldayuce4@gmail.com
+# Highlight Projects
+
+## UAV & Telemetry
+
+### [ZEUS-Telemetry-Anomaly-Checker](https://github.com/MeldaYuceee/ZEUS-Telemetry-Anomaly-Checker)
+Telemetry anomaly detection system analyzing UAV data streams and abnormal behavior patterns.
+
+### [RavenLink-Aegis](https://github.com/MeldaYuceee/RavenLink-Aegis)
+Adaptive anti-jamming telemetry engine with BER monitoring and dynamic telemetry mode switching.
+
+### [Waypoint-X](https://github.com/MeldaYuceee/Waypoint-X)
+Waypoint-based mission planning and UAV navigation prototype.
+
+### [DroneFlightData](https://github.com/MeldaYuceee/DroneFlightData)
+Mini telemetry visualization system displaying altitude, speed, and distance metrics.
+
+---
+
+## Embedded Systems
+
+### [Sentinel-Guard](https://github.com/MeldaYuceee/Sentiel-Guard)
+Arduino-based smart security system using motion, sound, and light sensors with LCD and relay integration.
+
+### [Aegis-Edge-PX](https://github.com/MeldaYuceee/Aegis-Edge-PX)
+Performance-oriented C++ project focused on edge-level processing and system logic.
+
+---
+
+## Simulation & Defense Concepts
+
+### [DroneKit-Gazebo-Mission-Project](https://github.com/MeldaYuceee/DroneKit-Gazebo-Mission-Project)
+Autonomous UAV mission simulation using DroneKit and Gazebo.
+
+### [GPS-Spoofing-Detection-HADES](https://github.com/MeldaYuceee/GPS-Spoofing-Detection-HADES-)
+Prototype exploring GPS spoofing detection through telemetry anomaly analysis.
+
+### [SilentHawk-RCS](https://github.com/MeldaYuceee/SilentHawk-RCS)
+Radar cross-section inspired simulation and signal analysis concepts.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeldaYuceee&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeldaYuceee&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Current Learning Path
+
+- Embedded software architectures
+- UAV telemetry systems
+- Real-time communication
+- Signal processing fundamentals
+- Defense-oriented simulation concepts
+- Low-level system design
+- ROS & robotics ecosystems
+
+---
+
+# Engineering Interests
+
+```txt
+UAV Systems
+Telemetry
+Embedded Software
+Defense Technologies
+Simulation Systems
+Radar & Signal Concepts
+Real-Time Systems
+Computer Vision
+```
+
+---
+
+# Connect With Me
+
+### LinkedIn
+www.linkedin.com/in/melda-y%C3%BCce-35411333b/
+
+### Medium
+https://medium.com/@MeldaYuce
+
+### GitHub
+https://github.com/MeldaYuceee
+
+---
+
+<div align="center">
+
+“Building systems where software meets real-world behavior.”
+
+</div>
