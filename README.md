@@ -217,8 +217,4 @@ Signal & Radar Concepts
 
 ---
 
-<p align="center">
 
-"Building systems where software meets real-world engineering."
-
-</p>
