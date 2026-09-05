@@ -4,7 +4,7 @@
 
 ### Computer Engineering Student · Embedded Systems · UAV Software · Telemetry
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+systems+where+software+meets+the+physical+world;Exploring+UAV+telemetry+%26+embedded+systems;Turning+engineering+ideas+into+working+prototypes">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+systems+where+software+meets+the+physical+world;Exploring+UAV+telemetry+%26+embedded+systems;Turning+engineering+ideas+into+working+prototypes">
 
 <br>
 
@@ -18,98 +18,197 @@
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MeldaYuceee&label=Profile%20Views&color=22D3EE&style=flat-square">
+
 </div>
 
 ---
 
 ## `~/` whoami
 
-I'm a **Computer Engineering student** focused on the intersection of software, embedded systems and autonomous platforms.
+I'm a **Computer Engineering student** focused on the intersection of **software, embedded systems and autonomous platforms**.
 
-I build engineering-oriented prototypes involving **UAV telemetry, embedded communication, real-time monitoring, anomaly detection, sensor systems and simulation**.
+I enjoy building engineering-oriented prototypes involving **UAV telemetry, embedded communication, real-time monitoring, anomaly detection, sensor systems and simulation**.
 
-My main interest is understanding the complete path from **physical data → embedded processing → telemetry → software intelligence**.
+My main interest is understanding how a system moves from **physical data → embedded processing → telemetry → intelligent software decisions**.
 
-* 🚁 Exploring **UAV software, mission systems & telemetry**
-* ⚙️ Building with **C/C++, Python, ESP32 & Arduino**
-* 📡 Interested in **real-time monitoring and resilient communication**
-* 🔎 Exploring **anomaly detection, sensor fusion & simulation**
-* 🎯 Working toward a career in **aerospace, embedded systems & defense technologies**
+- 🚁 Exploring **UAV software, mission systems & telemetry**
+- ⚙️ Building with **C/C++, Python, ESP32 & Arduino**
+- 📡 Interested in **real-time monitoring and resilient communication**
+- 🔎 Exploring **anomaly detection, sensor fusion & simulation**
+- 🎯 Working toward **aerospace, embedded systems & defense technologies**
 
 ---
 
-# 🧭 Engineering Focus
+## 🧭 Engineering Focus
 
-```text
-                    PHYSICAL SYSTEM
-                          │
-                    ┌─────▼─────┐
-                    │   SENSORS │
-                    └─────┬─────┘
-                          │
-                    ┌─────▼─────┐
-                    │  EMBEDDED │
-                    │  SYSTEMS  │
-                    └─────┬─────┘
-                          │
-                    ┌─────▼─────┐
-                    │ TELEMETRY │
-                    └─────┬─────┘
-                          │
-               ┌──────────▼──────────┐
-               │ DATA & INTELLIGENCE │
-               └──────────┬──────────┘
-                          │
-              ┌───────────▼───────────┐
-              │ UAV / ROBOTICS SYSTEM │
-              └───────────────────────┘
-```
+<table>
+<tr>
+<td width="25%" align="center">
 
-I'm especially interested in systems where **software decisions are connected to real-world behavior**.
+### ⚙️ Embedded
+
+**C / C++**
+
+ESP32  
+Arduino  
+Embedded Logic  
+Hardware / Software  
+
+</td>
+
+<td width="25%" align="center">
+
+### 📡 Telemetry
+
+**Real-Time Data**
+
+UAV Telemetry  
+Serial Communication  
+Monitoring  
+Fault Detection  
+
+</td>
+
+<td width="25%" align="center">
+
+### 🚁 UAV Systems
+
+**Autonomous Platforms**
+
+Mission Planning  
+Waypoints  
+Simulation  
+Flight Data  
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧠 Intelligence
+
+**Data → Decisions**
+
+Anomaly Detection  
+Sensor Fusion  
+Computer Vision  
+Simulation  
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+
+<b>Physical Systems</b>
+&nbsp; → &nbsp;
+<b>Embedded Processing</b>
+&nbsp; → &nbsp;
+<b>Telemetry</b>
+&nbsp; → &nbsp;
+<b>Data & Intelligence</b>
+&nbsp; → &nbsp;
+<b>Autonomous Systems</b>
+
+</p>
 
 ---
 
 # ⭐ Featured Projects
 
-These projects best represent the direction I'm currently building toward.
+> Four projects that best represent the engineering direction I'm building toward.
 
-### 📡 [RavenLink-Aegis](https://github.com/MeldaYuceee/RavenLink-Aegis)
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📡 RavenLink-Aegis
 
 **Adaptive Telemetry & Anti-Jamming Prototype**
 
 A telemetry-oriented project exploring **BER monitoring, communication conditions and adaptive telemetry switching** for UAV systems.
 
-`Python` · `Telemetry` · `UAV` · `Signal Analysis`
+**Stack**
 
----
+`Python` `Telemetry` `UAV` `Signal Analysis`
 
-### 🚁 [ZEUS-Telemetry-Anomaly-Checker](https://github.com/MeldaYuceee/ZEUS-Telemetry-Anomaly-Checker)
+<br>
+
+<a href="https://github.com/MeldaYuceee/RavenLink-Aegis">
+<img src="https://img.shields.io/badge/View%20Project-22D3EE?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚁 ZEUS Telemetry
 
 **UAV Telemetry Anomaly Detection**
 
-A prototype for analyzing telemetry data and identifying **abnormal UAV behavior patterns**.
+A prototype focused on identifying **abnormal UAV behavior patterns** through telemetry analysis.
 
-`Python` · `Telemetry` · `Anomaly Detection` · `UAV`
+**Stack**
 
----
+`Python` `Telemetry` `Anomaly Detection` `UAV`
 
-### 🧠 [-ARGUS_Sensor-Fusion-Digital-Twin-Simulation](https://github.com/MeldaYuceee/-ARGUS_Sensor-Fusion-Digital-Twin-Simulation)
+<br>
+
+<a href="https://github.com/MeldaYuceee/ZEUS-Telemetry-Anomaly-Checker">
+<img src="https://img.shields.io/badge/View%20Project-22D3EE?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 ARGUS
 
 **Sensor Fusion & Digital Twin Simulation**
 
-A simulation project exploring how **sensor data, system state and virtual system models** can work together.
+A simulation-oriented project exploring the relationship between **sensor data, system state and virtual representations of physical systems**.
 
-`Python` · `Sensor Fusion` · `Simulation` · `Digital Twin`
+**Stack**
 
----
+`Python` `Sensor Fusion` `Simulation` `Digital Twin`
 
-### 🛰️ [GPS-Spoofing-Detection-HADES-](https://github.com/MeldaYuceee/GPS-Spoofing-Detection-HADES-)
+<br>
+
+<a href="https://github.com/MeldaYuceee/-ARGUS_Sensor-Fusion-Digital-Twin-Simulation">
+<img src="https://img.shields.io/badge/View%20Project-22D3EE?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛰️ HADES
 
 **GPS Spoofing Detection Prototype**
 
 A telemetry-focused exploration of detecting suspicious navigation behavior through **data analysis and anomaly detection**.
 
-`Python` · `GPS` · `Telemetry` · `Anomaly Detection`
+**Stack**
+
+`Python` `GPS` `Telemetry` `Anomaly Detection`
+
+<br>
+
+<a href="https://github.com/MeldaYuceee/GPS-Spoofing-Detection-HADES-">
+<img src="https://img.shields.io/badge/View%20Project-22D3EE?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -117,61 +216,136 @@ A telemetry-focused exploration of detecting suspicious navigation behavior thro
 
 I enjoy working close to the hardware and exploring how software interacts with physical devices.
 
-### Selected Projects
+### Selected Work
 
-**[ESP32-Drone-Telemetry-Dashboard](https://github.com/MeldaYuceee/ESP32-Drone-Telemetry-Dashboard)**
-Real-time drone telemetry monitoring with ESP32 and embedded communication.
-
-**[Aegis-Edge-PX](https://github.com/MeldaYuceee/Aegis-Edge-PX)**
-C++ exploration of embedded logic, edge-level processing and low-level system behavior.
-
-**[Sentinel-Guard](https://github.com/MeldaYuceee/Sentiel-Guard)**
-Arduino-based security system combining sensors, LCD feedback and relay control.
+| Project | What it explores |
+| --- | --- |
+| **[ESP32-Drone-Telemetry-Dashboard](https://github.com/MeldaYuceee/ESP32-Drone-Telemetry-Dashboard)** | Real-time drone telemetry & embedded communication |
+| **[Aegis-Edge-PX](https://github.com/MeldaYuceee/Aegis-Edge-PX)** | C++ embedded logic & edge-level processing |
+| **[Sentinel-Guard](https://github.com/MeldaYuceee/Sentiel-Guard)** | Arduino sensors, LCD feedback & relay control |
 
 ---
 
 # 🚁 UAV & Simulation
 
-I'm particularly interested in UAV systems where **navigation, telemetry, simulation and software logic** come together.
+My UAV work focuses on connecting **mission logic, navigation, telemetry and simulation**.
 
-### Projects
+<table>
+<tr>
 
-| Project                                                                                               | Focus                                  |
-| ----------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| [Waypoint-X](https://github.com/MeldaYuceee/Waypoint-X)                                               | Waypoint navigation & mission planning |
-| [DroneFlightData](https://github.com/MeldaYuceee/DroneFlightData)                                     | Flight telemetry visualization         |
-| [DroneKit-Gazebo-Mission-Project](https://github.com/MeldaYuceee/DroneKit-Gazebo-Mission-Project)     | Autonomous UAV mission simulation      |
-| [DroneKit-Gazebo-completed-Project](https://github.com/MeldaYuceee/DroneKit-Gazebo-completed-Project) | UAV simulation & mission execution     |
+<td width="50%">
+
+### Waypoint-X
+
+Waypoint-based UAV navigation and mission planning.
+
+**`Navigation` `Mission Planning` `UAV`**
+
+[Explore →](https://github.com/MeldaYuceee/Waypoint-X)
+
+</td>
+
+<td width="50%">
+
+### DroneFlightData
+
+Flight telemetry visualization for altitude, speed and mission data.
+
+**`Telemetry` `Visualization` `Flight Data`**
+
+[Explore →](https://github.com/MeldaYuceee/DroneFlightData)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### DroneKit + Gazebo
+
+Autonomous UAV mission simulation using DroneKit and Gazebo.
+
+**`DroneKit` `Gazebo` `Simulation`**
+
+[Explore →](https://github.com/MeldaYuceee/DroneKit-Gazebo-Mission-Project)
+
+</td>
+
+<td width="50%">
+
+### Completed Mission Simulation
+
+A completed UAV simulation environment focused on autonomous mission execution.
+
+**`UAV` `Simulation` `Mission Execution`**
+
+[Explore →](https://github.com/MeldaYuceee/DroneKit-Gazebo-completed-Project)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📡 Signal, Radar & Defense-Oriented Projects
+# 📡 Signal, Radar & Defense-Oriented Work
 
-Another area I'm exploring is the use of **signals, telemetry and sensor data to understand system behavior**.
+I'm interested in how **signals, telemetry and sensor data can reveal the state of a system**.
 
-* **[RadarSimPy](https://github.com/MeldaYuceee/RadarSimPy)** — radar signal visualization and target-motion simulation
-* **[SilentHawk-RCS](https://github.com/MeldaYuceee/SilentHawk-RCS)** — radar-cross-section inspired simulation
-* **[-Falcon-EW](https://github.com/MeldaYuceee/-Falcon-EW)** — electronic-warfare-oriented software exploration
-* **[Hydra-Swarm](https://github.com/MeldaYuceee/Hydra-Swarm)** — swarm-oriented UAV/system exploration
+<table>
+<tr>
+<td>
+
+📡 **[RadarSimPy](https://github.com/MeldaYuceee/RadarSimPy)**  
+Radar signal visualization and target-motion simulation.
+
+</td>
+
+<td>
+
+🛰️ **[SilentHawk-RCS](https://github.com/MeldaYuceee/SilentHawk-RCS)**  
+Radar-cross-section inspired simulation and signal analysis.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+⚡ **[-Falcon-EW](https://github.com/MeldaYuceee/-Falcon-EW)**  
+Electronic-warfare-oriented software exploration.
+
+</td>
+
+<td>
+
+🐉 **[Hydra-Swarm](https://github.com/MeldaYuceee/Hydra-Swarm)**  
+Swarm-oriented UAV and autonomous-system exploration.
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 👁️ Computer Vision & AI
 
-I've also explored computer vision and machine learning through practical projects.
+I have also explored computer vision and machine learning through practical projects.
 
-| Project                                                                         | Focus                               |
-| ------------------------------------------------------------------------------- | ----------------------------------- |
-| [RedObjectTracker](https://github.com/MeldaYuceee/RedObjectTracker)             | Real-time object tracking           |
-| [Motion-Detection-Alarm](https://github.com/MeldaYuceee/Motion-Detection-Alarm) | Motion detection & alarm system     |
-| [Colorizer](https://github.com/MeldaYuceee/Colorizer)                           | Image colorization                  |
-| [NeuroDigit](https://github.com/MeldaYuceee/NeuroDigit)                         | MNIST handwritten digit recognition |
+| Project | Focus |
+| --- | --- |
+| **[RedObjectTracker](https://github.com/MeldaYuceee/RedObjectTracker)** | Real-time object tracking |
+| **[Motion-Detection-Alarm](https://github.com/MeldaYuceee/Motion-Detection-Alarm)** | Motion detection & alarm systems |
+| **[Colorizer](https://github.com/MeldaYuceee/Colorizer)** | Image colorization |
+| **[NeuroDigit](https://github.com/MeldaYuceee/NeuroDigit)** | MNIST handwritten digit recognition |
 
 ---
 
 # 🛠️ Technology Stack
 
-### Programming
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,cs&perline=8">
@@ -199,28 +373,37 @@ I've also explored computer vision and machine learning through practical projec
 
 # 📊 Current Focus
 
-```text
-Embedded Systems
-C / C++
-ESP32 Development
-UAV Telemetry
-Real-Time Monitoring
-Sensor Fusion
-Digital Twin & Simulation
-Anomaly Detection
-Signal & Radar Concepts
-UAV Software
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Systems
+
+- Embedded Systems
+- C / C++
+- ESP32 Development
+- Real-Time Systems
+- Hardware / Software Integration
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚁 Aerospace & Data
+
+- UAV Telemetry
+- Sensor Fusion
+- Anomaly Detection
+- Digital Twin & Simulation
+- Signal & Radar Concepts
+
+</td>
+</tr>
+</table>
 
 ### Currently learning
 
-* Deeper **C/C++ and low-level programming**
-* Real-time embedded system concepts
-* UAV communication architectures
-* Telemetry reliability and fault detection
-* Sensor fusion and system-state estimation
-* Simulation-driven engineering
-* Hardware/software integration
+`Low-Level Programming` · `Real-Time Systems` · `UAV Communication` · `Sensor Fusion` · `Telemetry Reliability`
 
 ---
 
@@ -250,11 +433,23 @@ UAV Software
 
 I'm moving from individual prototypes toward **larger, integrated engineering systems**.
 
-The direction I'm interested in is:
+My direction is:
 
-**Sensors → Embedded Processing → Telemetry → Intelligence → Autonomous Systems**
+<p align="center">
 
-My goal is to understand not only how to build each component, but also **how the components communicate, fail and work together as a system**.
+<b>Sense</b>
+→
+<b>Process</b>
+→
+<b>Communicate</b>
+→
+<b>Analyze</b>
+→
+<b>Decide</b>
+
+</p>
+
+I want to understand not only how individual components work, but also **how systems communicate, fail and respond as a whole**.
 
 ---
 
@@ -262,17 +457,17 @@ My goal is to understand not only how to build each component, but also **how th
 
 > **Build it. Measure it. Break it. Understand it. Improve it.**
 
-Most of my repositories are experiments in that process — turning an idea into a working prototype and using the result to learn what should come next.
+I learn by turning ideas into working prototypes, observing their behavior and using the results to decide what should come next.
 
 ---
 
 # 📬 Let's Connect
 
-Interested in:
+If you're interested in:
 
-**Embedded Systems · UAV Software · Telemetry · Robotics · Aerospace · Simulation · Computer Vision · Engineering Software**
+**Embedded Systems · UAV Software · Telemetry · Robotics · Aerospace · Simulation · Computer Vision**
 
-Feel free to connect or explore my projects.
+I'd be happy to connect and exchange ideas.
 
 <p align="center">
 
@@ -291,5 +486,11 @@ Feel free to connect or explore my projects.
 <div align="center">
 
 ### `Building software for systems that sense, communicate and move.`
+
+<br>
+
+<img src="https://img.shields.io/badge/Embedded-Systems-22D3EE?style=flat-square">
+<img src="https://img.shields.io/badge/UAV-Telemetry-22D3EE?style=flat-square">
+<img src="https://img.shields.io/badge/Real--Time-Engineering-22D3EE?style=flat-square">
 
 </div>
